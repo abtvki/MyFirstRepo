@@ -1,3 +1,4 @@
  What I have learned from  this course 
- I have learned how to navigate through the git  and git hub,create branches  pull request and commands on the terminal
-  
+ I have learned how to create branches, repositories, pull requests and commandson the terminal
+
+
